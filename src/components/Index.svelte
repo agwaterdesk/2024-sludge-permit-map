@@ -7,7 +7,7 @@
 </script>
 
 <div>
-	This is a test viz
+	This is a test viz!
 </div>
 
 <style lang="scss">
