@@ -1,4 +1,4 @@
-PHONY: github pudding
+PHONY: github agwaterdesk
 
 github:
 	rm -rf docs
